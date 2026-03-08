@@ -11,10 +11,11 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)]()
 
 Focus Areas:
-- Multi-provider AI orchestration (OpenAI, Claude, Mistral)
-- Vector search & semantic retrieval (Pinecone + RAG pipeline engineering)
-- Real-time streaming architectures (SSE)
-- Sentence-level citation attribution & auditable reasoning chains
-- JWT authentication with Supabase Auth
-- Citation-aware content synthesis
-- Async Python backend services
+- Large language model integration & multi-provider orchestration
+- Retrieval augmented generation & vector search systems
+- Real-time data streaming & event-driven architectures
+- Knowledge attribution & explainable AI systems
+- Full-stack application design with async backend services
+- Authentication, authorization & secure multi-tenant data access
+- Document processing, chunking & semantic indexing pipelines
+- Prompt engineering & inference policy design
